@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ET et Sidus</title>
-    <link>https://elliottsao.github.io/post/</link>
-    <description>Recent content in Posts on ET et Sidus</description>
+    <title>Hugo on ET et Sidus</title>
+    <link>https://elliottsao.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on ET et Sidus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 23:43:22 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 23:43:22 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>https://elliottsao.github.io/post/hugo/</link>
@@ -16,15 +16,6 @@
       <description>How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &amp;lsquo;blog&amp;rsquo; in my case: $ cd hugo Therefore entered into $ hugo
 Step 2: create a new post(markdown format title.md) by $ hugo new post/title.md
 And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://elliottsao.github.io/post/content/</link>
-      <pubDate>Sun, 14 Feb 2021 23:17:29 +1100</pubDate>
-      
-      <guid>https://elliottsao.github.io/post/content/</guid>
-      <description>Hello World</description>
     </item>
     
   </channel>
