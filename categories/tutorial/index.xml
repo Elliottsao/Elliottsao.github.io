@@ -6,7 +6,16 @@
     <description>Recent content in Tutorial on ET et Sidus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 23:43:22 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:29 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install m10c theme.</title>
+      <link>https://elliottsao.github.io/post/theme/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:29 +1100</pubDate>
+      
+      <guid>https://elliottsao.github.io/post/theme/</guid>
+      <description>Your m10c theme from ZERO to one This is a short tutorial to help us building a Hugo blog with m10c theme. This memo has four parts as following:Part 1 - Pre tools setting Part 2 - Build a Hugo framework Part 3 - Host on GitHub Part 4 - Final Step Part 5 - Real Final Step Reference </description>
+    </item>
+    
     <item>
       <title>How to post Hugo content</title>
       <link>https://elliottsao.github.io/post/hugo/</link>
