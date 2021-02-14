@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elliottsao.github.io/post/content/</loc>
-    <lastmod>2021-02-14T23:17:29+11:00</lastmod>
+    <loc>https://elliottsao.github.io/categories/</loc>
+    <lastmod>2021-02-14T23:38:42+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elliottsao.github.io/tags/</loc>
+    <lastmod>2021-02-14T23:38:33+11:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +18,18 @@
   </url>
   
   <url>
+    <loc>https://elliottsao.github.io/post/content/</loc>
+    <lastmod>2021-02-14T23:17:29+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elliottsao.github.io/post/</loc>
     <lastmod>2021-02-14T23:17:29+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elliottsao.github.io/about/</loc>
+    <lastmod>2021-02-14T17:12:17+11:00</lastmod>
   </url>
   
   <url>

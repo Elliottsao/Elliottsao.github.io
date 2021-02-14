@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>ET et Sidus</title>
     <link>https://elliottsao.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on ET et Sidus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Feb 2021 23:17:29 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories</title>
+      <link>https://elliottsao.github.io/categories/</link>
+      <pubDate>Sun, 14 Feb 2021 23:38:42 +1100</pubDate>
+      
+      <guid>https://elliottsao.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://elliottsao.github.io/tags/</link>
+      <pubDate>Sun, 14 Feb 2021 23:38:33 +1100</pubDate>
+      
+      <guid>https://elliottsao.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://elliottsao.github.io/post/content/</link>
@@ -14,6 +32,16 @@
       
       <guid>https://elliottsao.github.io/post/content/</guid>
       <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://elliottsao.github.io/about/</link>
+      <pubDate>Sun, 14 Feb 2021 17:12:17 +1100</pubDate>
+      
+      <guid>https://elliottsao.github.io/about/</guid>
+      <description>DeutschIch heiße Elliott und komme aus Melbourne. Ich bin ein Gesundheitsdatenanalyst, Astro-Fotograf und ein Meister der Philosophie im Bereich der öffentlichen Gesundheit. Interessen sind Astronomie, Physik, Gesundheit und Philosophie. Deshalb lerne ich auch Latina Lingua, Deutsch und Französisch.
+Dieser Hugo-Blog ist mein zweiter Blog nach dem ersten Hexo zu Beginn dieses Jahres. Der Hauptgrund, warum wir Hugo endlich starten, ist das Aufzeichnen von Codes und nützlichen Fähigkeiten beim maschinellen Lernen und dergleichen.</description>
     </item>
     
   </channel>
