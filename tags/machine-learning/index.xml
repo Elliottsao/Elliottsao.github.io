@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on ET et Sidus</title>
+    <link>https://elliottsao.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on ET et Sidus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2021 00:37:17 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to select a Machine Learning algorithm</title>
+      <link>https://elliottsao.github.io/post/ml/</link>
+      <pubDate>Mon, 15 Feb 2021 00:37:17 +1100</pubDate>
+      
+      <guid>https://elliottsao.github.io/post/ml/</guid>
+      <description>At First - Algorithms for an ML beginner This post is mainly written for ML beginners (ie., myself). It is really confused to select an appropriate algorithm for any current case.
+ML algorithms can be generally divided into Supervised learning, Unsupervised learning, Semi-Supervised learning and Reinforcement.
+Supervised Learning Supervised learning uses labelled training data to learn the mapping function turning input variables (X) into output (Y).
+Focusing on Classification and Regression</description>
+    </item>
+    
+  </channel>
+</rss>
