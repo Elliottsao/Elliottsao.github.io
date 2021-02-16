@@ -81,10 +81,10 @@ $ hugo new post/title.md And then please your familiar text editor to complete y
       <pubDate>Sun, 14 Feb 2021 17:12:17 +1100</pubDate>
       
       <guid>https://elliottsao.github.io/about/</guid>
-      <description>##中文我叫Elliott，來自澳洲的墨爾本，是一名醫療數據分析師，業餘天文攝影師，同時是一名公共衛生專業的研究式碩士，即將讀本專業的博士，研究領域為&amp;quot;流行病學與機器學習疾病偵測&amp;quot;。我的其他興趣包括：天文、物理、醫療以及哲學，比如說，我在學拉丁文、德文和法文。
+      <description>中文 我叫Elliott，來自澳洲的墨爾本，是一名醫療數據分析師，業餘天文攝影師，同時是一名公共衛生專業的研究式碩士，即將讀本專業的博士，研究領域為&amp;quot;流行病學與機器學習疾病偵測&amp;quot;。我的其他興趣包括：天文、物理、醫療以及哲學，比如說，我在學拉丁文、德文和法文。
 這個Hugo部落格是我在2020年繼Hexo部落格之後的第二個 開始使用這種部落格的初衷是為了紀錄日常使用的一些代碼、錯誤紀錄和好的想法。
 最後：我的hugo部落格之旅從此開始 AND 我的征途是星辰大海！！！
-##DeutschIch heiße Elliott und komme aus Melbourne. Ich bin ein Gesundheitsdatenanalyst, Astro-Fotograf und ein Meister der Philosophie im Bereich der öffentlichen Gesundheit. Interessen sind Astronomie, Physik, Gesundheit und Philosophie. Deshalb lerne ich auch Latina Lingua, Deutsch und Französisch.
+Deutsch Ich heiße Elliott und komme aus Melbourne. Ich bin ein Gesundheitsdatenanalyst, Astro-Fotograf und ein Meister der Philosophie im Bereich der öffentlichen Gesundheit. Interessen sind Astronomie, Physik, Gesundheit und Philosophie. Deshalb lerne ich auch Latina Lingua, Deutsch und Französisch.
 Dieser Hugo-Blog ist mein zweiter Blog nach dem ersten Hexo zu Beginn dieses Jahres. Der Hauptgrund, warum wir Hugo endlich starten, ist das Aufzeichnen von Codes und nützlichen Fähigkeiten beim maschinellen Lernen und dergleichen.</description>
     </item>
     
