@@ -34,9 +34,9 @@ Focusing on Classification and Regression</description>
       <pubDate>Sun, 14 Feb 2021 23:43:22 +1100</pubDate>
       
       <guid>https://elliottsao.github.io/post/hugo/</guid>
-      <description>How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &amp;lsquo;blog&amp;rsquo; in my case: $ cd hugo Therefore entered into $ hugo
-Step 2: create a new post(markdown format title.md) by $ hugo new post/title.md
-And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line.</description>
+      <description>How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &amp;lsquo;blog&amp;rsquo; in my case:
+$ cd hugo $ hugo Step 2: create a new post(markdown format title.md) by
+$ hugo new post/title.md And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line.</description>
     </item>
     
     <item>

@@ -13,14 +13,14 @@
     
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="How to post Hugo content"/>
-<meta name="twitter:description" content="How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &lsquo;blog&rsquo; in my case: $ cd hugo Therefore entered into $ hugo
-Step 2: create a new post(markdown format title.md) by $ hugo new post/title.md
-And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line."/>
+<meta name="twitter:description" content="How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &lsquo;blog&rsquo; in my case:
+$ cd hugo $ hugo Step 2: create a new post(markdown format title.md) by
+$ hugo new post/title.md And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line."/>
 
     <meta property="og:title" content="How to post Hugo content" />
-<meta property="og:description" content="How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &lsquo;blog&rsquo; in my case: $ cd hugo Therefore entered into $ hugo
-Step 2: create a new post(markdown format title.md) by $ hugo new post/title.md
-And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line." />
+<meta property="og:description" content="How to post a Hugo markdown AND Chinese Testing 中文測試 How to post a Hugo content Step 1: To enter into your blog root folder, ie, &lsquo;blog&rsquo; in my case:
+$ cd hugo $ hugo Step 2: create a new post(markdown format title.md) by
+$ hugo new post/title.md And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://elliottsao.github.io/post/hugo/" />
 <meta property="article:published_time" content="2021-02-14T23:43:22+11:00" />
@@ -91,39 +91,39 @@ And then please your familiar text editor to complete your content writing and s
     <div class="post-content">
       <h1 id="how-to-post-a-hugo-markdown-and-chinese-testing-中文測試">How to post a Hugo markdown AND Chinese Testing 中文測試</h1>
 <h2 id="how-to-post-a-hugo-content">How to post a Hugo content</h2>
-<p><strong>Step 1:</strong> To enter into your blog root folder, ie, &lsquo;blog&rsquo; in my case:
-$ cd hugo
-Therefore entered into
-$ hugo</p>
-<p><strong>Step 2:</strong> create a new post(markdown format title.md) by
-$ hugo new post/title.md</p>
-<p>And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line.</p>
-<p>Local Preview before pushing to GitHub:
-$ hugo server -t m10c &ndash;buildDrafts</p>
-<p><strong>Step 3:</strong> Push your content to GitHub repo by running:
-$ hugo &ndash;theme=m10c &ndash;baseUrl=&ldquo;<a href="https://elliottsao.github.io/%22">https://elliottsao.github.io/&quot;</a> &ndash;buildDrafts</p>
-<p><strong>Step 4:</strong> Enter into public folder then by running:
-$ cd public
+<p><strong>Step 1:</strong> To enter into your blog root folder, ie, &lsquo;blog&rsquo; in my case:</p>
+<pre><code>$ cd hugo
+</code></pre><pre><code>$ hugo
+</code></pre><p><strong>Step 2:</strong> create a new post(markdown format title.md) by</p>
+<pre><code>$ hugo new post/title.md
+</code></pre><p>And then please your familiar text editor to complete your content writing and save. My favourite editor for GitHub writing is Atom IDE and Vim command line.</p>
+<p>Local Preview before pushing to GitHub:</p>
+<pre><code>$ hugo server -t m10c --buildDrafts
+</code></pre><p><strong>Step 3:</strong> Push your content to GitHub repo by running:</p>
+<pre><code>$ hugo --theme=m10c --baseUrl=&quot;https://elliottsao.github.io/&quot; --buildDrafts
+</code></pre><p><strong>Step 4:</strong> Enter into public folder then by running:</p>
+<pre><code>$ cd public
 $ git add .
-$ git commit -m&quot;new change name&rdquo;
-$ git push <a href="https://github.com/elliottsao/elliottsao.github.io.git">https://github.com/elliottsao/elliottsao.github.io.git</a> master</p>
-<h2 id="traditional-chinese-testing---中文測試如何發布一篇hugo">Traditional Chinese testing - 中文測試：如何發布一篇Hugo</h2>
-<p><strong>第一步 - 進入博客文件夾</strong>
-$ cd hugo
-$ hugo</p>
-<p><strong>第二步 - 新建markdown文章</strong>
-打開自己熟悉的文本編輯器，完成這篇.md文章，並保存。
-$ hugo new post/title.md</p>
-<p><strong>第三步 - 將博客發布到遠程倉庫</strong>
-$ hugo &ndash;theme=m10c &ndash;baseUrl=&ldquo;<a href="https://elliottsao.github.io/%22">https://elliottsao.github.io/&quot;</a> &ndash;buildDrafts</p>
-<p><strong>第四步 - 將博客push到遠程倉庫</strong>
-$ cd public
+$ git commit -m&quot;new change name&quot;
+$ git push https://github.com/elliottsao/elliottsao.github.io.git master
+</code></pre><h2 id="traditional-chinese-testing---中文測試如何發布一篇hugo">Traditional Chinese testing - 中文測試：如何發布一篇Hugo</h2>
+<p><strong>第一步 - 進入博客文件夾</strong></p>
+<pre><code>$ cd hugo
+$ hugo
+</code></pre><p><strong>第二步 - 新建markdown文章</strong>
+打開自己熟悉的文本編輯器，完成這篇.md文章，並保存。</p>
+<pre><code>$ hugo new post/title.md
+</code></pre><p><strong>第三步 - 將博客發布到遠程倉庫</strong></p>
+<pre><code>$ hugo --theme=m10c --baseUrl=&quot;https://elliottsao.github.io/&quot; --buildDrafts
+</code></pre><p><strong>第四步 - 將博客push到遠程倉庫</strong></p>
+<pre><code>$ cd public
 $ git add .
-$ git commit -m&quot;new change name&rdquo;
-$ git push <a href="https://github.com/elliottsao/elliottsao.github.io.git">https://github.com/elliottsao/elliottsao.github.io.git</a> master</p>
-<p><strong>第五步 - 博客啟動</strong>
-返回hugo初級文件夾 $ cd ../.. $ cd hugo 博客啟動</p>
-
+$ git commit -m&quot;new change name&quot;
+$ git push https://github.com/elliottsao/elliottsao.github.io.git master
+</code></pre><p><strong>第五步 - 博客啟動</strong>
+返回hugo初級文件夾，啟動博客</p>
+<pre><code>$ cd ../.. $ cd hugo
+</code></pre>
     </div>
     <div class="post-footer">
       
