@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plan on ET et Sidus</title>
+    <link>https://elliottsao.github.io/categories/plan/</link>
+    <description>Recent content in Plan on ET et Sidus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 21:04:38 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/categories/plan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Hugo site Plan</title>
+      <link>https://elliottsao.github.io/post/outline/</link>
+      <pubDate>Tue, 09 Mar 2021 21:04:38 +1100</pubDate>
+      
+      <guid>https://elliottsao.github.io/post/outline/</guid>
+      <description>Reasons to use this site In general, as a Health Data Analyst and current research student in the field of public health informatics (epidemiology), I have full interests in terms of data science related programming languages and skills, therefore I wanna build a free online blog site to record all experiences, error message and others. This Hugo blog is the first stage, next stage is Django skill that I am actually learning now.</description>
+    </item>
+    
+  </channel>
+</rss>
