@@ -6,7 +6,20 @@
     <description>Recent content in Posts on ET et Sidus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 21:04:38 +1100</lastBuildDate><atom:link href="https://elliottsao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 20:37:35 +1000</lastBuildDate><atom:link href="https://elliottsao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervised Learning</title>
+      <link>https://elliottsao.github.io/post/supervised/</link>
+      <pubDate>Sun, 02 May 2021 20:37:35 +1000</pubDate>
+      
+      <guid>https://elliottsao.github.io/post/supervised/</guid>
+      <description>What is Supervise Learning? Supervised learning uses labelled training data to learn the mapping function turning input variables (X) into output (Y).
+Focusing on Classification and Regression
+Classification: Predict sample&amp;rsquo;s type or category, such as identify something/type.
+Regression: Predict a real value, such as predict housing price in somewhere.
+Options: SVM, Linear Regression, Logistic Regression, NB, LDA, DT, kNN, NN.</description>
+    </item>
+    
     <item>
       <title>My Hugo site Plan</title>
       <link>https://elliottsao.github.io/post/outline/</link>
