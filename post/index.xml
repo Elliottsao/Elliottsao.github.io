@@ -17,7 +17,8 @@
 Focusing on Classification and Regression
 Classification: Predict sample&amp;rsquo;s type or category, such as identify something/type.
 Regression: Predict a real value, such as predict housing price in somewhere.
-Options: SVM, Linear Regression, Logistic Regression, NB, LDA, DT, kNN, NN.</description>
+Options: SVM, Linear Regression, Logistic Regression, NB, LDA, DT, kNN, NN.
+Details Table    Algo 1 Algo 2 Algo 3     Header Title Here&amp;rsquo;s this   Paragraph Text And more    </description>
     </item>
     
     <item>
