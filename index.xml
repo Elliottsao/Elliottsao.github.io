@@ -6,7 +6,18 @@
     <description>Recent content on ET et Sidus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 May 2021 20:37:35 +1000</lastBuildDate><atom:link href="https://elliottsao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 17:15:07 +1000</lastBuildDate><atom:link href="https://elliottsao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal List of Programming Languages in Data Science</title>
+      <link>https://elliottsao.github.io/post/list/</link>
+      <pubDate>Sun, 18 Jul 2021 17:15:07 +1000</pubDate>
+      
+      <guid>https://elliottsao.github.io/post/list/</guid>
+      <description>Previously This article summarises all programming languages in data science that from my short experience since 2018 to now.
+In my real workplace, Python and R are two frequently used that can deal with most of scenarios.
+Table of Languages    Languages Used for Memo     Python ML, Data Vis Here&amp;rsquo;s this   R Statistical, Data Vis    SQL Structured database    MS Access Relational database    MATLAB ML, Data Vis    SAS Statistical     Python: In general, Python is the most popular and my personal first choice due to overall and powerful packages for Data Science, particularly Machine Learning cases.</description>
+    </item>
+    
     <item>
       <title>Supervised Learning</title>
       <link>https://elliottsao.github.io/post/supervised/</link>
